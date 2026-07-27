@@ -20,7 +20,9 @@ I am not a software engineer by training. I am a product and data person who lea
 ### What I work with
 
 **Building:** React, TypeScript, Tailwind CSS, Google AI Studio, Copilot Studio
+
 **Data:** SQL, Power BI, Tableau, Alteryx, data modelling and governance
+
 **Thinking about:** data structure, master data, open standards, privacy by design, and why good platforms still fail to get adopted
 
 ### A few things I believe
@@ -35,5 +37,3 @@ I am not a software engineer by training. I am a product and data person who lea
 Based in Hong Kong. I like messy data problems and clear explanations.
 
 [LinkedIn](https://linkedin.com/in/lamkaren)
-
-
